@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+python-docx
+python-pptx
+google-generativeai
+googletrans==4.0.0-rc1
+huggingface_hub
